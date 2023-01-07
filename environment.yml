@@ -1,0 +1,12 @@
+name: decoding
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+
+  - pandas
+  - jupyter
+
+  - pip:
+      - web3
